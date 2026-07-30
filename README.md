@@ -1,9 +1,10 @@
 I build good products.
 
-Started as a freelance web developer. Evolved into data engineering. Now building AI agent tooling and infrastructure.
+Started as freelance web dev → data engineer → AI agent tooling & infrastructure.
 
-**Capabilities:** AI/Agent Engineering · Data Engineering (Airflow, Spark, Kafka) · Full-Stack (Python, Go, Node.js, React) · Cloud Infrastructure (AWS, GCP, Docker, K8s)
+**Capabilities:** AI/Agent Engineering · Data Engineering (Airflow, Spark, Kafka) · Full-Stack (Python, Go, Node.js, React) · Cloud (AWS, GCP, Docker, K8s)
 
-Programmer of the Year — Jose Rizal University SHS.
+Programmer of the Year — ACLC Antipolo SHS.
+1st year Computer Engineering — TIP QC (intelligent dropout, 2021).
 
 📍 Antipolo, PH · [stubborndeveloper.top](https://stubborndeveloper.top)
