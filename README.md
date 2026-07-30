@@ -1,10 +1,9 @@
 I build good products.
 
-AI agent tooling · Data engineering · Full-stack development
+Started as a freelance web developer. Evolved into data engineering. Now building AI agent tooling and infrastructure.
 
-- [`Minchin`](https://github.com/TheRealStubbornDeveloper/filedrive) — gated file hosting with GCash payments
-- [`pi-pii-mask`](https://github.com/TheRealStubbornDeveloper/pi-pii-mask) — PII masking for Pi coding agent
-- [`StubbornBetterOpencode`](https://github.com/TheRealStubbornDeveloper/StubbornBetterOpencode) — AI coding agent in Go
-- [`FiloAI`](https://github.com/TheRealStubbornDeveloper/FiloAI) — Filipino AI toolbox
+**Capabilities:** AI/Agent Engineering · Data Engineering (Airflow, Spark, Kafka) · Full-Stack (Python, Go, Node.js, React) · Cloud Infrastructure (AWS, GCP, Docker, K8s)
+
+Programmer of the Year — Jose Rizal University SHS.
 
 📍 Antipolo, PH · [stubborndeveloper.top](https://stubborndeveloper.top)
